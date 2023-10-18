@@ -1,0 +1,2 @@
+# FayosIndoGaming.py
+metode numerik 
